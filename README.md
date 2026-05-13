@@ -16,3 +16,23 @@ Dependencia de la infraestructura de Microsoft.
 Preocupaciones sobre la privacidad y el código.
 Gestión ineficiente de archivos grandes.
 Problemas de disponibilidad y rendimiento.
+
+
+Diferencias entre:
+*Repository:
+Un repository es como una carpeta inteligente en internet donde guardas un proyecto.
+
+Por ejemplo, si haces una app o una página web, ahí guardas:
+
+el código,
+los archivos,
+y todos los cambios que haces.
+
+También sirve para trabajar con otras personas sin perder versiones anteriores.
+
+
+
+*Commit
+*Branch
+**Pull Request
+*Fork
